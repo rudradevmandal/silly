@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/silly/static/css/main.154da66c.css",
-    "main.js": "/silly/static/js/main.702ce83c.js",
+    "main.js": "/silly/static/js/main.ce733609.js",
     "static/media/out.mp4": "/silly/static/media/out.14b92738e28ad11f1c19.mp4",
     "index.html": "/silly/index.html",
     "static/media/open-sans-all-400-normal.woff": "/silly/static/media/open-sans-all-400-normal.cb2542fccedadc68d737.woff",
@@ -9,6 +9,7 @@
     "static/media/roboto-all-400-normal.woff": "/silly/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/montserrat-all-400-normal.woff": "/silly/static/media/montserrat-all-400-normal.327fab0afc997a2d9b16.woff",
     "static/media/poppins-devanagari-400-normal.woff2": "/silly/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/creative.svg": "/silly/static/media/creative.b8d8940f5c632ac84338d263d4369a32.svg",
     "static/media/open-sans-cyrillic-ext-400-normal.woff2": "/silly/static/media/open-sans-cyrillic-ext-400-normal.01b11c560bc52c756c23.woff2",
     "static/media/open-sans-latin-400-normal.woff2": "/silly/static/media/open-sans-latin-400-normal.a1535f451fb7bb98f526.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/silly/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -32,10 +33,10 @@
     "static/media/montserrat-vietnamese-400-normal.woff2": "/silly/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "/silly/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
     "main.154da66c.css.map": "/silly/static/css/main.154da66c.css.map",
-    "main.702ce83c.js.map": "/silly/static/js/main.702ce83c.js.map"
+    "main.ce733609.js.map": "/silly/static/js/main.ce733609.js.map"
   },
   "entrypoints": [
     "static/css/main.154da66c.css",
-    "static/js/main.702ce83c.js"
+    "static/js/main.ce733609.js"
   ]
 }
